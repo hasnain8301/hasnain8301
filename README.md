@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasnain Nafees</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Python Programming**
-
-- 👨‍💻 All of my projects are available at [https://hasnain-portfolio.herokuapp.com/](https://hasnain-portfolio.herokuapp.com/)
-
-- 📝 I regularly write articles on [https://hasnain-portfolio.herokuapp.com/](https://hasnain-portfolio.herokuapp.com/)
-
-- 📫 How to reach me **hasnain.nafees8@gmail.com**
-
-- 📄 Know about my experiences [https://hasnain-portfolio.herokuapp.com/](https://hasnain-portfolio.herokuapp.com/)
-
-- ⚡ Fun fact **I Think I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hasnain861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasnain861" height="30" width="40" /></a>
