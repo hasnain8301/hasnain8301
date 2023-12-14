@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasnain Nafees</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
+<h3 align="center">A passionate Python Web Scraping & Automation Engineer from Pakistan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
